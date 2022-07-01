@@ -8,7 +8,7 @@ namespace Addres
 {
     class Address
     {
-        public string Street, Number;
+        private string Street, Number;
         public Address()
         {
             Street = "Lenina";
